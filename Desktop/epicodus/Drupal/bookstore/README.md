@@ -10,6 +10,7 @@ This project is built with Drupal, and is a website for a fictitious bookstore. 
 You will need the following things properly installed on your computer.
 
 * [Mamp](http://mamp.info/)
+* [Git](https://git-scm.com/)
 
 ## Installation
 
